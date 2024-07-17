@@ -1,0 +1,51 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    background-color: #CDBDB4;
+    
+}
+div{
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+}
+form{
+    width: 360px;
+    height: 60px;
+    font-weight: bold;
+    font-size: small;
+}
+.botao{
+
+    font-family: "Poppins", sans-serif;
+    width: 360px;
+    height: 40px;
+    background-color: #94512C;
+    color: white;
+    margin-top: 8px;
+    border-radius:  10px;
+    border: 1px solid #94512C;
+    margin-top: 10px;
+    font-weight: bold;
+    
+}
+input{
+    margin-top: 10px;
+    width: 360px;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid #E9EBFF;
+    font-size: small;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 150px;
+    height: 120px;
+    margin-left: 100px;
+}
